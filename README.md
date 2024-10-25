@@ -1,3 +1,3 @@
-# tools
+# Tools and References
 
-Collection of tools as [Wiki](https://github.com/hashimoton/tools/wiki)
+Collection of tools and references at [Wiki](https://github.com/hashimoton/tools/wiki)
